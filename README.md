@@ -1,2 +1,3 @@
-"#pull-request-practice1
-This Repository for practicing the GitHub pull request workflow."
+# pull-request-practice1
+
+This repository is for practicing the GitHub pull request workflow.
